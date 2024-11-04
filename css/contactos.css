@@ -1,0 +1,36 @@
+body{
+    background-color: #212121;
+    text-align: center;
+    
+ }
+ .formulario{
+     width: 30%;
+     height: 500px;
+     margin-top: 80px;
+     border: 1px solid white;
+     text-align: center;
+     margin-bottom: 30px;
+ }
+ 
+ .Subtitulo2{
+     text-align: center;
+     color: aliceblue;
+     padding: 20px;
+ }
+ label{
+     color: azure;
+     font-weight: bold;
+     font-size: 20px;
+    
+ }
+ input{
+     width: 70%;
+     margin-top:15px;
+     margin-bottom: 16px;
+     padding: 5px;
+ }
+ #Enviardatos{
+     font-weight: bold;
+     border-radius: 10px;
+     padding: 10px 0;
+ }

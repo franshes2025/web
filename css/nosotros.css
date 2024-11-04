@@ -1,0 +1,31 @@
+.seccionnosotros{
+    width: 100%;
+    height: 900px;
+    background-color: #212121;
+}
+.box1 , .box2{
+    width: 45%;
+    
+}
+.box1{
+    margin-top: 70px;
+}
+.box2{
+    padding: 50px;
+}
+.boton2{
+    color: #f1cd4d;
+    border: 5px solid #f1cd4d;
+    font-size: 20px;
+    width: 30%;
+    text-align: center;
+    margin-top: 30px;
+    float: left;
+    padding:20px 0px ;
+}
+a{
+    text-decoration: none;
+}
+.boton:hover{
+    background-color: rgba(241, 205, 77 , 0.20);
+}
